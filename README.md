@@ -83,7 +83,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/shbxnkr/shbxnkr/output/snake.svg" alt="Snake animation" />
-
-###
