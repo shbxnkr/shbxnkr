@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hi, I’m Shobhan Karthish. I’m a tech enthusiast with a strong passion for UI/UX design, and I love creating clean, user-friendly interfaces using tools like Figma. Alongside design, I’m also deeply interested in Data Science, Machine Learning, and AI, and enjoy exploring how smart technology can solve real-world problems.<br><br>I’ve worked on projects like AI-powered safety platforms, chatbots, and data-driven dashboards. I also enjoy hackathons and have been lucky to win a few, including:<br><br>🥇 Data Analytics Hackathon at IIITDM Kancheepuram<br><br>🥇 ML Mania Challenge at Anna University<br><br>I’m always excited to learn, build, and make a positive impact through tech and design.</h4>
+<h4 align="left">Hi, I’m Shobhan Karthish. I’m a tech enthusiast with a strong passion for UI/UX design, and I love creating clean and user-friendly interfaces using tools like Figma. Alongside design, I’m also deeply interested in Data Science, Machine Learning, and AI, and enjoy exploring how smart technology can solve real-world problems.<br><br>I’ve worked on projects like AI-powered safety platforms, chatbots, and data-driven dashboards. I also enjoy hackathons and have been lucky to win a few, including:<br><br>🥇 Data Analytics Hackathon at IIITDM Kancheepuram<br><br>🥇 ML Mania Challenge at Anna University<br><br>I’m always excited to learn, build, and make a positive impact through tech and design.</h4>
 
 ###
 
